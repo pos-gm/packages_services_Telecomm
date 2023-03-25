@@ -28,7 +28,6 @@ android_app {
     static_libs: [
         "androidx.annotation_annotation",
         "org.lineageos.lib.phone",
-        "org.lineageos.platform.internal",
     ],
     resource_dirs: ["res"],
     proto: {
